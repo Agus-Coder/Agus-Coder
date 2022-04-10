@@ -22,9 +22,9 @@
 <p>Str = 10</p>
 <p>Dex = 10</p>
 <p>Con = 13</p>
-<p>Int = 1</p>
+<p>Int = -1</p>
 <p>Wis = 10</p>
-<p>Cha = 13</p>
+<p>Cha = 14</p>
 
 <h3>Some Real Stats</h3>
 
