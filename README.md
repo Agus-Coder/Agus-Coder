@@ -27,6 +27,5 @@
 <p>Cha = 13</p>
 
 <h3>Some Real Stats</h3>
-[![Agus-Coder's GitHub stats](https://github-readme-stats.vercel.app/api?username=agus-coder&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agus-coder&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
