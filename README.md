@@ -1,6 +1,6 @@
 <h1>Hello there! Welcome to my Github! :wave:</h1>
 
-<p>Full Stack Developer under development...  Come back soon!</p>
+<p>Full Stack Developer Jr under development...  Come back soon!</p>
 
 <p>My name is August, I´m a Professional Chemist from Argentina</p>
 
