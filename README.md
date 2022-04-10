@@ -48,14 +48,14 @@
     </tbody>
 </table>
 
-<h3>Some Stats</h3>
+<h1>Some Stats</h1>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agus-coder&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<h1>Other Stats</h1>
 <p>Str = 10</p>
 <p>Dex = 10</p>
 <p>Con = 13</p>
 <p>Int = -1</p>
 <p>Wis = 10</p>
 <p>Cha = 14</p>
-
-<h3>Some Real Stats</h3>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agus-coder&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
