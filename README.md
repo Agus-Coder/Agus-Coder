@@ -1,5 +1,13 @@
 <h1>Hello there! Welcome to my Github! :wave:</h1>
 
+<p>Full Stack Developer under development...  Come back soon!</p>
+
+<p>My name is August, I´m a Chemist from Argentina</p>
+
+<p>:seedling: Currently I'm learning Node.JS</p>
+
+<p></p>
+
 
 <h1>Technologies & Tools</h1>
 
