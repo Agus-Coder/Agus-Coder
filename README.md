@@ -37,13 +37,18 @@
             <span><strong>Node.js</strong></span><br>
             <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
             </td>
-                        <td width="100px" align="center">
+            <td width="100px" align="center">
             <span><strong>npm</strong></span><br>
             <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
             </td>
             <td width="100px" align="center">
             <span><strong>SASS</strong></span><br>
             <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+            </td>
+            <td width="100px" align="center">
+            <span><strong>Jest</strong></span><br>
+            <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+            </td>
         </tr>
     </tbody>
 </table>
