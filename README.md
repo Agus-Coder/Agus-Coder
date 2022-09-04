@@ -51,6 +51,14 @@
             <span><strong>Jest</strong></span><br>
             <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
             </td>
+            <td width="100px" align="center">
+            <span><strong>React</strong></span><br>
+            <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+            </td>
+            <td width="100px" align="center">
+            <span><strong>Redux</strong></span><br>
+            <img height=60 src"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+            </td>
         </tr>
     </tbody>
 </table>
