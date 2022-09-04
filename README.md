@@ -4,7 +4,7 @@
 
 <p>My name is August, I´m a Professional Chemist from Argentina</p>
 
-<p>:seedling: Currently I'm learning Node.JS</p>
+<p>:seedling: Currently I'm learning Redux</p>
 
 <p></p>
 
@@ -18,12 +18,12 @@
     <tbody>
         <tr valign="top">
             <td width="100px" align="center">
-            <span><strong>HTML</strong></span><br>
-            <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+            <span><strong>React</strong></span><br>
+            <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
             </td>
             <td width="100px" align="center">
-            <span><strong>CSS</strong></span><br>
-            <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+            <span><strong>Redux</strong></span><br>
+            <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
             </td>
             <td width="100px" align="center">
             <span><strong>JavaScript</strong></span><br>
@@ -52,12 +52,12 @@
             <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
             </td>
             <td width="100px" align="center">
-            <span><strong>React</strong></span><br>
-            <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+            <span><strong>HTML</strong></span><br>
+            <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
             </td>
             <td width="100px" align="center">
-            <span><strong>Redux</strong></span><br>
-            <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+            <span><strong>CSS</strong></span><br>
+            <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
             </td>
         </tr>
     </tbody>
