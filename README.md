@@ -37,6 +37,8 @@
             <span><strong>Node.js</strong></span><br>
             <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
             </td>
+        </tr>
+        <tr valign="bottom">
             <td width="100px" align="center">
             <span><strong>npm</strong></span><br>
             <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
