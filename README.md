@@ -40,8 +40,8 @@
         </tr>
         <tr valign="bottom">
             <td width="100px" align="center">
-            <span><strong>npm</strong></span><br>
-            <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
+            <span><strong>Express</strong></span><br>
+            <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"">
             </td>
             <td width="100px" align="center">
             <span><strong>SASS</strong></span><br>
