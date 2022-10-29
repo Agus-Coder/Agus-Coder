@@ -2,7 +2,7 @@
 
 <p>Javascript Developer under development...  Come back soon!</p>
 
-<p>My name is August, I´m a Professional Chemist from Argentina</p>
+<p>My name is August, I´m a Professional Chemist from Argentina.</p>
 
 <p>:seedling: Currently I'm learning ExpressJS</p>
 
