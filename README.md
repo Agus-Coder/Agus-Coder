@@ -4,7 +4,7 @@
 
 <p>My name is August, I´m a Professional Chemist from Argentina.</p>
 
-<p>:seedling: Currently I'm learning ExpressJS.</p>
+<p>:seedling: Currently I'm learning ExpressJS</p>
 
 <p></p>
 
