@@ -1,8 +1,8 @@
 <h1>Hello there! Welcome to my Github! :wave:</h1>
 
-<p>Javascript Developer under development...  Come back soon!</p>
+<p>Engineer under development...  Come back soon!</p>
 
-<p>My name is August, I´m a Professional Chemist from Argentina.</p>
+<p>My name is August, I´m a Software Engineer Student from Argentina.</p>
 
 <p>:seedling: Currently I'm learning ExpressJS</p>
 
@@ -52,12 +52,12 @@
             <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
             </td>
             <td width="100px" align="center">
-            <span><strong>HTML</strong></span><br>
-            <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-            </td>
-            <td width="100px" align="center">
             <span><strong>CSS</strong></span><br>
             <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+            </td>
+            <td width="100px" align="center">
+            <span><strong>MongoDB</strong></span><br>
+            <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
             </td>
         </tr>
     </tbody>
