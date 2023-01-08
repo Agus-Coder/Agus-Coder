@@ -52,8 +52,8 @@
             <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
             </td>
             <td width="100px" align="center">
-            <span><strong>CSS</strong></span><br>
-            <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+            <span><strong>MySQL</strong></span><br>
+            <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
             </td>
             <td width="100px" align="center">
             <span><strong>MongoDB</strong></span><br>
