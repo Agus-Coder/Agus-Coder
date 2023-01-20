@@ -4,7 +4,7 @@
 
 <p>My name is August, I´m a Software Engineer Student from Argentina.</p>
 
-<p>:seedling: Currently I'm Building!</p>
+<p>:seedling: Currently I'm Building and learning C#</p>
 
 <p></p>
 
